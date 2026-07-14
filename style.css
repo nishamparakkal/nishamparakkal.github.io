@@ -10,7 +10,7 @@ body{
 
 .hero{
 
-    height:100vh;
+    height:60vh;
 
     display:flex;
 
@@ -203,5 +203,48 @@ h1{
     color:white;
 
     text-decoration:none;
+
+}
+.contact{
+
+    max-width:900px;
+
+    margin:100px auto;
+
+    padding:40px;
+
+}
+
+.contact h2{
+
+    margin-bottom:20px;
+
+}
+
+.contact-info{
+
+    margin-top:30px;
+
+}
+
+.contact-info p{
+
+    margin:15px 0;
+
+    color:#bbbbbb;
+
+}
+
+.contact-info a{
+
+    color:#6aa9ff;
+
+    text-decoration:none;
+
+}
+
+.contact-info a:hover{
+
+    text-decoration:underline;
 
 }
