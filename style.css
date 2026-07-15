@@ -10,8 +10,6 @@ body{
 
 .hero{
 
-    height:60vh;
-
     display:flex;
 
     flex-direction:column;
@@ -21,6 +19,8 @@ body{
     align-items:center;
 
     text-align:center;
+
+    padding:120px 20px 80px;
 
 }
 
